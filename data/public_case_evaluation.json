@@ -1,0 +1,183 @@
+[
+  {
+    "case_id": "PUB-001",
+    "decision": "ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-002",
+    "decision": "NOT_ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [
+      "Initial waiting period is not satisfied."
+    ],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [
+      "The claim falls within the initial waiting-period window and is not eligible for full coverage."
+    ],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-003",
+    "decision": "NOT_ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [
+      "Pre-existing condition waiting period has not been completed."
+    ],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [
+      "The treatment relates to a pre-existing condition, which is subject to the policy waiting-period rules."
+    ],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-004",
+    "decision": "ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [
+      "The treatment is domiciliary and should be checked against the domiciliary-coverage conditions."
+    ],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-005",
+    "decision": "ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [
+      "The treatment is day-care and should satisfy the less-than-24-hour hospitalization criteria."
+    ],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-006",
+    "decision": "ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-007",
+    "decision": "ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-008",
+    "decision": "ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-009",
+    "decision": "ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-010",
+    "decision": "NOT_ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [
+      "Initial waiting period is not satisfied."
+    ],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [
+      "The treatment is day-care and should satisfy the less-than-24-hour hospitalization criteria.",
+      "The claim falls within the initial waiting-period window and is not eligible for full coverage.",
+      "Prior insurance continuity may reduce the waiting period, but the claim still needs policy evidence."
+    ],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-011",
+    "decision": "NEEDS_REVIEW",
+    "confidence": 0.35,
+    "validation_status": "NEEDS_REVIEW",
+    "unsupported_claims": [
+      "Hospital identity is not established enough for final admissibility determination.",
+      "Hospital minimum-criteria evidence is insufficient for a final decision."
+    ],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [],
+    "applicable_limits": [],
+    "citations_count": 5
+  },
+  {
+    "case_id": "PUB-012",
+    "decision": "NOT_ADMISSIBLE",
+    "confidence": 0.75,
+    "validation_status": "PASS",
+    "unsupported_claims": [
+      "Experimental treatment is excluded."
+    ],
+    "missing_evidence": [
+      "expenses"
+    ],
+    "key_findings": [
+      "The treatment is marked as experimental or unproven, which is excluded under the policy."
+    ],
+    "applicable_limits": [],
+    "citations_count": 5
+  }
+]
